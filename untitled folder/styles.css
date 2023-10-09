@@ -1,0 +1,72 @@
+.head {
+    font-size: 40px;
+  }
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+}
+
+.grid-item1 {
+    background-color: rgb(230, 212, 201);
+    text-align: center;
+    font-size: 8px;
+    width: 200px;
+    height: 200px;
+}
+.grid-item2 {
+    background-color: rgb(195, 174, 161);
+    text-align: center;
+    font-size: 8px;
+    width: 200px;
+    height: 200px;
+}
+.grid-item3 {
+    background-color: rgb(217, 174, 148);
+    text-align: center;
+    font-size: 8px;
+    width: 200px;
+    height: 200px;
+}
+.grid-item4 {
+    background-color: rgb(168, 149, 138);
+    text-align: center;
+    font-size: 8px;
+    width: 200px;
+    height: 200px;
+}
+.grid-item5 {
+    background-color: rgb(175, 144, 126);
+    text-align: center;
+    font-size: 8px;
+    width: 200px;
+    height: 200px;
+}
+.grid-item6 {
+    background-color: rgb(176, 129, 100);
+    text-align: center;
+    font-size: 8px;
+    width: 200px;
+    height: 200px;
+}
+.grid-item7 {
+    background-color: rgb(183, 130, 97);
+    text-align: center;
+    font-size: 8px;
+    width: 200px;
+    height: 200px;
+}
+.grid-item8 {
+    background-color: rgb(156, 121, 99);
+    text-align: center;
+    font-size: 8px;
+    width: 200px;
+    height: 200px;
+}
+.grid-item9 {
+    background-color: rgb(128, 100, 83);
+    text-align: center;
+    font-size: 8px;
+    width: 200px;
+    height: 200px;
+}
